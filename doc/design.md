@@ -2,5 +2,5 @@
 
 ![device1](../image/hardware.jpg)
 <br>
-![device2](../image/interface.jpg)
+![device2](../image/interface2.jpg)
 <br>
