@@ -1,8 +1,6 @@
 ## 本型デバイス設計図
 
-<div align="center">
-  <img src="../image/hardware.jpg">
-</div>
+![device1](../image/hardware.jpg)
 <br>
-![device2](interface.jpg)
+![device2](../image/interface.jpg)
 <br>
